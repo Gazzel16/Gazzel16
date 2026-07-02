@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi I'm Aaron 👋
 
-<!--
-**Gazzel16/Gazzel16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Developer | Software Engineer
 
-Here are some ideas to get you started:
+I am a versatile developer with extensive experience building scalable web architectures, production-ready APIs, and smart IoT integrations. From maintaining high-volume enterprise systems handling millions in monthly transactions to building custom e-commerce platforms and AI-powered mobile apps, I deliver robust end-to-end solutions that solve real-world problems. I thrive in fast-paced environments, managing production database operations, optimizing performance, and coordinating technical workflows from staging to production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Technical Stack
+
+*   **Frontend Web:** Next.js, Vite, Tailwind CSS, SHADCN UI, MUI, Redux, TypeScript, JavaScript, HTML, CSS
+*   **Backend & APIs:** Python (FastAPI), Node.js (Express), PHP (Laravel), Prisma
+*   **Databases & Cloud (SaaS/BaaS):** Supabase, Firebase (RTDB & Firestore), PostgreSQL, MySQL, NoSQL, SQLite
+*   **Mobile & IoT:** Android (Kotlin, Java, Jetpack Compose, Room Database, XML), C++, ESP32
+*   **Deployment & DevOps:** Vercel, Render, Docker, Google Play Store
+*   **Tools & Version Control:** Git, GitHub, Bitbucket, Trello
