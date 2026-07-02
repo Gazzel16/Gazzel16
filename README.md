@@ -14,4 +14,4 @@ I design systems that simplify workflows, develop full-stack applications from t
 - **Version Control**: Git, GitHub, Bitbucket
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,python,kotlin,firebase,postgres,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=supabase,vercel,firebase,py,fastapi,nodejs,php,mysql,postgres,sqlite,nextjs,tailwind,mui,redux,html,css,ts,js,java,kotlin,cpp,git,github,bitbucket)](https://skillicons.dev)
