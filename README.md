@@ -3,7 +3,7 @@ Full Stack Developer who builds and ships production-ready systems, across start
 
 I design systems that simplify workflows, develop full-stack applications from the ground up to deployment, and automate repetitive tasks to boost efficiency.
 
-**Tools i use:**
+**Technologies & Tools I Use:**
 - **SaaS** (Software as a Service): Supabase, Vercel, Render
 - **BaaS** (Backend as a Service): Firebase RTDB and Firestore
 - **App Deployment**: Google Playstore
